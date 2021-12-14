@@ -31554,7 +31554,7 @@ V(a,b){return new A.pQ(B.wN,"Flutter Demo",A.a5o(null,B.Al),null)}}
 A.pB.prototype={
 aT(){return new A.DN(B.p)}}
 A.DN.prototype={
-V(a,b){var s,r,q,p,o,n,m=null,l="logo.png",k=b.ac(t.w).f,j=t.bk
+V(a,b){var s,r,q,p,o,n,m=null,l="assets/logo.png",k=b.ac(t.w).f,j=t.bk
 k=A.zo(m,A.ic(m,m,m,new A.dv(m,m,m,new A.ck(B.B,B.B,new A.bQ(500,500),B.B),m,new A.k_(B.eL,B.dk,B.bb,A.a([A.wt(69,202,255,1),A.wt(255,27,107,1)],j),m,m),B.ac),150,m,m,k.a.a),m,m,m,0,0,m)
 j=A.zo(-1200,A.ic(m,m,m,new A.dv(m,m,m,A.J_(1000),m,new A.k_(B.eL,B.dk,B.bb,A.a([A.wt(69,202,255,1),A.wt(255,27,107,1)],j),m,m),B.ac),1500,m,m,1500),m,m,-500,m,m,m)
 s=A.ic(m,m,m,m,m,m,m,m)
