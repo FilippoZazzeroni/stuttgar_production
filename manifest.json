@@ -1,11 +1,11 @@
 {
-    "name": "Stoner guys from stuttgart",
-    "short_name": "Stoner guys from stuttgart",
+    "name": "BRO Finance",
+    "short_name": "BRO Finance is a DAO that empowers the web2 technology of virtual computer in the web3 supporting AI algorithms." ,
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Dao",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
