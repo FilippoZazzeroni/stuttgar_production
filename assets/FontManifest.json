@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 [{"family":"MaterialIcons","fonts":[{"asset":"fonts/MaterialIcons-Regular.otf"}]},{"family":"AlfaSlabOne","fonts":[{"asset":"assets/assets/AlfaSlabOne-Regular.ttf"}]},{"family":"BebasNeue","fonts":[{"asset":"assets/assets/BebasNeue-Regular.ttf"}]},{"family":"packages/cupertino_icons/CupertinoIcons","fonts":[{"asset":"packages/cupertino_icons/assets/CupertinoIcons.ttf"}]}]
+=======
+[{"family":"MaterialIcons","fonts":[{"asset":"fonts/MaterialIcons-Regular.otf"}]},{"family":"AlfaSlab","fonts":[{"asset":"assets/fonts/AlfaSlabOne-Regular.ttf"}]},{"family":"BebasNeue","fonts":[{"asset":"assets/fonts/BebasNeue-Regular.ttf"}]}]
+>>>>>>> 2ea1fae (1.2.8)
